@@ -1,0 +1,16 @@
+H:\ProjetFinalVGK\VGK\Library\bin\Release\Library.dll
+H:\ProjetFinalVGK\VGK\Library\bin\Release\Library.pdb
+H:\ProjetFinalVGK\VGK\Library\bin\Release\Model.dll
+H:\ProjetFinalVGK\VGK\Library\bin\Release\Model.pdb
+H:\ProjetFinalVGK\VGK\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
+H:\ProjetFinalVGK\VGK\Library\obj\Release\Library.dll
+H:\ProjetFinalVGK\VGK\Library\obj\Release\Library.pdb
+I:\ProjetFinalVGK\VGK\Library\bin\Release\Library.dll
+I:\ProjetFinalVGK\VGK\Library\bin\Release\Library.pdb
+I:\ProjetFinalVGK\VGK\Library\bin\Release\Model.dll
+I:\ProjetFinalVGK\VGK\Library\bin\Release\Model.pdb
+I:\ProjetFinalVGK\VGK\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
+I:\ProjetFinalVGK\VGK\Library\obj\Release\Library.dll
+I:\ProjetFinalVGK\VGK\Library\obj\Release\Library.pdb
+I:\ProjetFinalVGK\VGK\Library\bin\Release\Content.dll
+I:\ProjetFinalVGK\VGK\Library\bin\Release\Content.pdb

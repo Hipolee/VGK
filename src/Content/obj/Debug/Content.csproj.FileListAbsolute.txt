@@ -1,0 +1,9 @@
+I:\ProjetFinalVGK\VGK\Content\bin\Debug\Content.dll
+I:\ProjetFinalVGK\VGK\Content\bin\Debug\Content.pdb
+I:\ProjetFinalVGK\VGK\Content\obj\Debug\Content.dll
+I:\ProjetFinalVGK\VGK\Content\obj\Debug\Content.pdb
+C:\projet\vgk\src\Content\bin\Debug\Content.dll
+C:\projet\vgk\src\Content\bin\Debug\Content.pdb
+C:\projet\vgk\src\Content\obj\Debug\Content.csprojResolveAssemblyReference.cache
+C:\projet\vgk\src\Content\obj\Debug\Content.dll
+C:\projet\vgk\src\Content\obj\Debug\Content.pdb

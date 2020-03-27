@@ -1,0 +1,10 @@
+H:\ProjetFinalVGK\VGK\XmlData\bin\Release\XmlData.dll
+H:\ProjetFinalVGK\VGK\XmlData\bin\Release\XmlData.pdb
+H:\ProjetFinalVGK\VGK\XmlData\obj\Release\XmlData.csprojResolveAssemblyReference.cache
+H:\ProjetFinalVGK\VGK\XmlData\obj\Release\XmlData.dll
+H:\ProjetFinalVGK\VGK\XmlData\obj\Release\XmlData.pdb
+C:\projet\vgk\src\XmlData\bin\Release\XmlData.dll
+C:\projet\vgk\src\XmlData\bin\Release\XmlData.pdb
+C:\projet\vgk\src\XmlData\obj\Release\XmlData.csprojResolveAssemblyReference.cache
+C:\projet\vgk\src\XmlData\obj\Release\XmlData.dll
+C:\projet\vgk\src\XmlData\obj\Release\XmlData.pdb

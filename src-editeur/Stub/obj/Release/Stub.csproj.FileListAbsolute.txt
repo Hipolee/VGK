@@ -1,0 +1,17 @@
+H:\ProjetFinalVGK\VGK\Stub\bin\Release\Stub.dll
+H:\ProjetFinalVGK\VGK\Stub\bin\Release\Stub.pdb
+H:\ProjetFinalVGK\VGK\Stub\bin\Release\Model.dll
+H:\ProjetFinalVGK\VGK\Stub\bin\Release\Model.pdb
+H:\ProjetFinalVGK\VGK\Stub\obj\Release\Stub.csprojResolveAssemblyReference.cache
+H:\ProjetFinalVGK\VGK\Stub\obj\Release\Stub.dll
+H:\ProjetFinalVGK\VGK\Stub\obj\Release\Stub.pdb
+I:\ProjetFinalVGK\VGK\Stub\bin\Release\Stub.dll
+I:\ProjetFinalVGK\VGK\Stub\bin\Release\Stub.pdb
+I:\ProjetFinalVGK\VGK\Stub\bin\Release\Model.dll
+I:\ProjetFinalVGK\VGK\Stub\bin\Release\Model.pdb
+I:\ProjetFinalVGK\VGK\Stub\obj\Release\Stub.csprojResolveAssemblyReference.cache
+I:\ProjetFinalVGK\VGK\Stub\obj\Release\Stub.dll
+I:\ProjetFinalVGK\VGK\Stub\obj\Release\Stub.pdb
+C:\projet\vgk\src\Stub\obj\Release\Stub.csprojResolveAssemblyReference.cache
+C:\projet\vgk\src\Stub\obj\Release\Stub.dll
+C:\projet\vgk\src\Stub\obj\Release\Stub.pdb

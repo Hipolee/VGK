@@ -1,0 +1,14 @@
+I:\ProjetFinalVGK\VGK\Stub\bin\Debug\Stub.dll
+I:\ProjetFinalVGK\VGK\Stub\bin\Debug\Stub.pdb
+I:\ProjetFinalVGK\VGK\Stub\bin\Debug\Model.dll
+I:\ProjetFinalVGK\VGK\Stub\bin\Debug\Model.pdb
+I:\ProjetFinalVGK\VGK\Stub\obj\Debug\Stub.csprojResolveAssemblyReference.cache
+I:\ProjetFinalVGK\VGK\Stub\obj\Debug\Stub.dll
+I:\ProjetFinalVGK\VGK\Stub\obj\Debug\Stub.pdb
+H:\ProjetFinalVGK\VGK\Stub\bin\Debug\Stub.dll
+H:\ProjetFinalVGK\VGK\Stub\bin\Debug\Stub.pdb
+H:\ProjetFinalVGK\VGK\Stub\bin\Debug\Model.dll
+H:\ProjetFinalVGK\VGK\Stub\bin\Debug\Model.pdb
+H:\ProjetFinalVGK\VGK\Stub\obj\Debug\Stub.csprojResolveAssemblyReference.cache
+H:\ProjetFinalVGK\VGK\Stub\obj\Debug\Stub.dll
+H:\ProjetFinalVGK\VGK\Stub\obj\Debug\Stub.pdb

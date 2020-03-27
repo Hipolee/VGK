@@ -1,0 +1,48 @@
+﻿<Window x:Class="ModelView.Views.InscriptionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModelView.Views"
+        mc:Ignorable="d"
+        Title="InscriptionWindow" Height="350" Width="300">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="0.75*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel  VerticalAlignment="Center" Grid.Row="0" Grid.Column="1" >
+                <TextBlock Text="Nom de compte"  ></TextBlock>
+                <TextBox Text="login"></TextBox>
+            </StackPanel>
+            <StackPanel  VerticalAlignment="Center" Grid.Row="1"  Grid.Column="1">
+                <TextBlock Text="Mot de passe" ></TextBlock>
+                <TextBox Text="password" ></TextBox>
+            </StackPanel>
+            <StackPanel  VerticalAlignment="Center" Grid.Row="2"  Grid.Column="1">
+                <TextBlock Text="Adresse mail" ></TextBlock>
+                <TextBox Text="email" ></TextBox>
+            </StackPanel>
+            <StackPanel  VerticalAlignment="Center" Grid.Row="3"  Grid.Column="1">
+                <TextBlock Text="Pseudonyme" ></TextBlock>
+                <TextBox Text="nickname" ></TextBox>
+            </StackPanel>
+            <Button Content="Connexion" Grid.Row="4"  Height="20"  Grid.Column="1"></Button>
+        </Grid>
+        <Button Content="Retour" HorizontalAlignment="Left" Grid.Row="1" Height="20" Width="50" Margin="10" Command="{Binding RetourCommand}" ></Button>
+    </Grid>
+</Window>

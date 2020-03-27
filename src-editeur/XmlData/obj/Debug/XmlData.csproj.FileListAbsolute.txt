@@ -1,0 +1,10 @@
+I:\ProjetFinalVGK\VGK\XmlData\bin\Debug\XmlData.dll
+I:\ProjetFinalVGK\VGK\XmlData\bin\Debug\XmlData.pdb
+I:\ProjetFinalVGK\VGK\XmlData\obj\Debug\XmlData.csprojResolveAssemblyReference.cache
+I:\ProjetFinalVGK\VGK\XmlData\obj\Debug\XmlData.dll
+I:\ProjetFinalVGK\VGK\XmlData\obj\Debug\XmlData.pdb
+C:\projet\vgk\src\XmlData\bin\Debug\XmlData.dll
+C:\projet\vgk\src\XmlData\bin\Debug\XmlData.pdb
+C:\projet\vgk\src\XmlData\obj\Debug\XmlData.csprojResolveAssemblyReference.cache
+C:\projet\vgk\src\XmlData\obj\Debug\XmlData.dll
+C:\projet\vgk\src\XmlData\obj\Debug\XmlData.pdb

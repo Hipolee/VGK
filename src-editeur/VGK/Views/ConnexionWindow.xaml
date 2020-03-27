@@ -1,0 +1,39 @@
+﻿<Window x:Class="ModelView.Views.ConnexionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModelView.Views"
+        mc:Ignorable="d"
+        Title="ConnexionWindow" Height="275" Width="300">
+    
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="0.75*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel  VerticalAlignment="Center" Grid.Row="0" Grid.Column="1" >
+                <TextBlock Text="Nom de compte"  ></TextBlock>
+                <TextBox Text="login"></TextBox>
+            </StackPanel>
+            <StackPanel  VerticalAlignment="Center" Grid.Row="1"  Grid.Column="1">
+                <TextBlock Text="Mot de passe" ></TextBlock>
+                <TextBox Text="password" ></TextBox>
+            </StackPanel>
+            <Button Content="Connexion" Grid.Row="4"  Height="20"  Grid.Column="1"></Button>
+        </Grid>
+        <Button Content="Retour" HorizontalAlignment="Left" Grid.Row="1" Height="20" Width="50" Margin="10" ></Button>
+    </Grid>
+</Window>

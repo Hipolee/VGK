@@ -1,0 +1,5 @@
+H:\ProjetFinalVGK\VGK\XmlData\bin\Release\XmlData.dll
+H:\ProjetFinalVGK\VGK\XmlData\bin\Release\XmlData.pdb
+H:\ProjetFinalVGK\VGK\XmlData\obj\Release\XmlData.csprojResolveAssemblyReference.cache
+H:\ProjetFinalVGK\VGK\XmlData\obj\Release\XmlData.dll
+H:\ProjetFinalVGK\VGK\XmlData\obj\Release\XmlData.pdb

@@ -1,0 +1,15 @@
+I:\ProjetFinalVGK\VGK\Model\bin\Debug\Model.dll
+I:\ProjetFinalVGK\VGK\Model\bin\Debug\Model.pdb
+I:\ProjetFinalVGK\VGK\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+I:\ProjetFinalVGK\VGK\Model\obj\Debug\Model.dll
+I:\ProjetFinalVGK\VGK\Model\obj\Debug\Model.pdb
+H:\ProjetFinalVGK\VGK\Model\bin\Debug\Model.dll
+H:\ProjetFinalVGK\VGK\Model\bin\Debug\Model.pdb
+H:\ProjetFinalVGK\VGK\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+H:\ProjetFinalVGK\VGK\Model\obj\Debug\Model.dll
+H:\ProjetFinalVGK\VGK\Model\obj\Debug\Model.pdb
+I:\ProjetFinalVGK\VGK\Model\bin\Debug\Content.dll
+I:\ProjetFinalVGK\VGK\Model\bin\Debug\Content.pdb
+C:\projet\vgk\src\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\projet\vgk\src\Model\obj\Debug\Model.dll
+C:\projet\vgk\src\Model\obj\Debug\Model.pdb
